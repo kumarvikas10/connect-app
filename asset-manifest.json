@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/connect-app/static/css/main.b2634092.css",
+    "main.js": "/connect-app/static/js/main.861184cb.js",
+    "static/js/787.d1839bb9.chunk.js": "/connect-app/static/js/787.d1839bb9.chunk.js",
+    "static/media/Connect-logo.png": "/connect-app/static/media/Connect-logo.2e0ed1b24069dc1e6223.png",
+    "index.html": "/connect-app/index.html",
+    "main.b2634092.css.map": "/connect-app/static/css/main.b2634092.css.map",
+    "main.861184cb.js.map": "/connect-app/static/js/main.861184cb.js.map",
+    "787.d1839bb9.chunk.js.map": "/connect-app/static/js/787.d1839bb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2634092.css",
+    "static/js/main.861184cb.js"
+  ]
+}
